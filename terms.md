@@ -1,4 +1,4 @@
-## Үг зүй:
+## Үг зүй
 
 Mock object - Дууриамал объект
 Stub - нэг юмны хэлтэрхий тал, тестэнд ашиглахдаа объектын зөвхөн хэрэг болох хэсгийг нь л зааж өгч ашигладаг
@@ -11,7 +11,8 @@ Set up - Байгуулах
 Inventory - Бараа бүтээгдэхүүний тооллого
 Behavoir - Үйлдэл
 Community - Бүлгэм
-state verification - Төлвийн баталгаа
+State verification - Төлвөөр батлах
+Behavior verification - Үйлдлээр батлах
 object-under-test  - тестлэгдэж буй объект
 Primary object - Гол оъект
 Secondary object - Хоёрдогч объект
