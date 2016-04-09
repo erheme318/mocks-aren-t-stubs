@@ -9,5 +9,5 @@
 * [So should I be a classicist or a mockist?](so_should_i_be_a_classicist_or_a_mockist.md)
 * [Final Thoughts](final_thoughts.md)
 * [Terms](terms.md)
-* References
+* [References](references.md)
 
