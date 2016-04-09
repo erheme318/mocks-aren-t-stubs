@@ -6,5 +6,5 @@
 * [The Difference Between Mocks and Stubs](the_difference_between_mocks_and_stubs.md)
 * [Classical and Mockist Testing](classical_and_mockist_testing.md)
 * [Choosing Between the Differences](choosing_between_the_differences.md)
-* So should I be a classicist or a mockist?
+* [So should I be a classicist or a mockist?](so_should_i_be_a_classicist_or_a_mockist.md)
 
