@@ -1,2 +1,4 @@
-# So should I be a classicist or a mockist?
+# Тэгэхээр би сонгодог уу эсвэл дууриамал аргаар тестлэгч үү ?
+
+
 
