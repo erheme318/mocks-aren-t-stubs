@@ -1,7 +1,17 @@
 #!/bin/bash
 command -v hunspell >/dev/null 2>&1 || {
-  echo >&2 "Please install hunspell. Ex: \"brew install hunspell\" etc..";
+  echo >&2 "Please install hunspell.";
   exit 1;
+}
+
+usage() {
+    cat <<USAGE
+Usage: $(basename $0) [ ]
+
+Options:
+    -d  | --dictionary-dir  load dictionary from this directory
+    -h  | --help            shows all options of the command
+USAGE
 }
 
 PS3='Please enter your choice: '
@@ -10,10 +20,10 @@ select opt in "${options[@]}"
 do
     case $opt in
         "Print all")
-            hunspell -d mn_MN -l *.md && break
+            hunspell -d dict/mn_MN -l *.md && break
             ;;
         "Fix all")
-            hunspell -d mn_MN *.md && break
+            hunspell -d dict/mn_MN *.md && break
             ;;
         "Quit")
             break
