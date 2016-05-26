@@ -1,7 +1,7 @@
 ## Үг зүй
 
-Mock object - Дууриамал объект
-Stub - нэг юмны хэлтэрхий тал, тестэнд ашиглахдаа объектын зөвхөн хэрэг болох хэсгийг нь л зааж өгч ашигладаг
+Mock object - Дуураймал объект
+Stub - нэг юмны хэлтэрхий тал, тестэд ашиглахдаа объектын зөвхөн хэрэг болох хэсгийг нь л зааж өгч ашигладаг
 Framework - Тогтолцоо
 Order - Захиалга
 Product - Бараа
@@ -11,10 +11,10 @@ Set up - Байгуулах
 Inventory - Бараа бүтээгдэхүүний тооллого
 Behavoir - Үйлдэл
 Community - Бүлгэм
-State verification - Төлвөөр батлах
+State verification - Төлөвөөр батлах
 Behavior verification - Үйлдлээр батлах
 object-under-test  - тестлэгдэж буй объект
-Primary object - Гол оъект
+Primary object - Гол объект
 Secondary object - Хоёрдогч объект
 Collaborator - Хамтрагч
 Library - Сан
@@ -23,6 +23,6 @@ Expectation - Тэгэх байх гэсэн хүлээлт, амлалт
 Exercise - Хийж, гүйцэлдүүлэх
 Assert - Нотолгоо, нотлох
 Constructor - Үүсгэгч
-Constraint - Хялгаарлалт
-Fail - ажилтгүй болох
+Constraint - Хязгаарлалт
+Fail - амжилтгүй болох
 Call - дуудлага (жишээ нь: method call - методыг дуудах)
